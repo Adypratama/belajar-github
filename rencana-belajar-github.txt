@@ -1,4 +1,7 @@
 Rencana Belajar GitHub
+- belajar javascript
+  *ES6
+  *framework javascript
 - mempelajari branch
 - mempelajari merge
 - mempeljari git
