@@ -1,5 +1,6 @@
 Belajar GitHub
-
 - mempelajari repositori
--mempelajari branch
--mempelajari merge
+- mempelajari branch
+- mempelajari merge
+- mempelajari fork
+- mempelajari bekerja dengan git
