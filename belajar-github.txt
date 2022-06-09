@@ -3,4 +3,4 @@ Belajar GitHub
 - mempelajari branch
 - mempelajari merge
 - mempelajari fork
-- mempelajari bekerja dengan git
+- bekerja dengan git
