@@ -1,0 +1,6 @@
+Rencana Belajar GitHub
+- mempelajari branch
+- mempelajari merge
+- mempeljari git
+- mempelajari fork
+- mempelajari git
