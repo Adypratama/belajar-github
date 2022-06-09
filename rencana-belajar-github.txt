@@ -3,6 +3,10 @@ Rencana Belajar GitHub
   *reactJs
   *ES6
   *framework javascript
+  *angular
+  *reactJs
+- belajar php framework
+  *laravel
 - mempelajari branch
 - mempelajari merge
 - mempeljari git
