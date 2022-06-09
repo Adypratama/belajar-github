@@ -7,3 +7,4 @@ Rencana Belajar GitHub
 - mempeljari git
 - mempelajari fork
 - mempelajari git
+- Python
