@@ -1,0 +1,4 @@
+Rencana Belajar GitHub
+- mempelajari branch
+- mempelajari merge
+- mempeljari git
