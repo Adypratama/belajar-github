@@ -1,0 +1,5 @@
+Belajar GitHub
+
+- mempelajari repositori
+-mempelajari branch
+-mempelajari merge
